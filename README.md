@@ -14,10 +14,8 @@
   <img alt="Neo4J" src="https://img.shields.io/badge/-Neo4J-43853d?style=flat-square&logo=neo4j&logoColor=white" />
   <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-43853d?style=flat-square&logo=PostgreSql&logoColor=white" />
   <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />  
-  <img alt="Angular" src="https://img.shields.io/badge/-angular-43853d?style=flat-square&logo=Angular&logoColor=white" />  
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-angular-43853d?style=flat-square&logo=Angular&logoColor=white" />
   <img alt="Cytoscape" src="https://img.shields.io/badge/-Cytoscape.js-E10098?style=flat-square&logo=cytoscapejs&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
