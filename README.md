@@ -11,7 +11,7 @@
    <img alt="Angular" src="https://img.shields.io/badge/-angular-43853d?style=flat-square&logo=Angular&logoColor=white" />  
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="REST" src="https://img.shields.io/badge/-REST-764ABC?style=flat-square&logo=restapi&logoColor=white" />
-  <img alt="Cytoscape" src="https://img.shields.io/badge/-Cytoscape-E10098?style=flat-square&logo=cytoscape&logoColor=white" />
+  <img alt="Cytoscape" src="https://img.shields.io/badge/-Cytoscape.js-E10098?style=flat-square&logo=cytoscape.js&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="SPARQL" src="https://img.shields.io/badge/-SPARQL-db7092?style=flat-square&logo=linkeddata&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
