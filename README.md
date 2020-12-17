@@ -18,7 +18,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img alt="RDF" src="https://img.shields.io/badge/-rdf-13aa52?style=flat-square&logo=rdf&logoColor=white" />
-  <img alt="Amazon Neptune" src="https://img.shields.io/badge/-aws-43853d?style=flat-square&logo=aws&logoColor=white" />
+  <img alt="Amazon Neptune" src="https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Neo4J" src="https://img.shields.io/badge/-Neo4J-43853d?style=flat-square&logo=neo4j&logoColor=white" />
 </p>
