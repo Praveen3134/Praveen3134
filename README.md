@@ -21,6 +21,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Maven" src="https://img.shields.io/badge/-Maven-E34F26?style=flat-square&logo=maven&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-E34F26?style=flat-square&logo=jenkins&logoColor=white" />
+  <img alt="Artifactory" src="https://img.shields.io/badge/-Artifactory-E34F26?style=flat-square&logo=artifactory&logoColor=white" />
 </p>
 <h3>About me</h3>
 <ui>
