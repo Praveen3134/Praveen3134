@@ -21,6 +21,7 @@
   <img alt="Amazon Neptune" src="https://img.shields.io/badge/-AWS-13aa52?style=flat-square&logo=aws&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Neo4J" src="https://img.shields.io/badge/-Neo4J-43853d?style=flat-square&logo=neo4j&logoColor=white" />
+  <img alt="PostgreSql" src="https://img.shields.io/badge/-PostgreSql-43853d?style=flat-square&logo=PostgreSql&logoColor=white" />
 </p>
 <h3>About me</h3>
 <ui>
