@@ -6,7 +6,7 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Java EE" src="https://img.shields.io/badge/-JavaEE-8DD6F9?style=flat-square&logo=javaee&logoColor=white" />   
+  <img alt="Jakarta EE" src="https://img.shields.io/badge/-J2EE-8DD6F9?style=flat-square&logo=j2ee&logoColor=white" />   
   <img alt="Java Script" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />  
    <img alt="Angular" src="https://img.shields.io/badge/-angular-43853d?style=flat-square&logo=Angular&logoColor=white" />  
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
