@@ -42,5 +42,5 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Praveen3134) 
 [![Github](https://img.shields.io/github/followers/Praveen3134?label=Follow&style=social)](https://github.com/Praveen3134)
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen3134&theme=tokyonight&hide=java)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen3134&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveen3134&show_icons=true&theme=tokyonight)
