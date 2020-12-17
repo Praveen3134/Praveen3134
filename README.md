@@ -1,7 +1,6 @@
 <h1>Hey 👋, nice to see you.</h1>
 
  
-
 <p>Welcome to my page! </br> I'm Praveen, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Banglore, India</b> </p>
 <h3>Things I code with</h3>
 <p>
@@ -29,7 +28,7 @@
 🔭 I’m currently working at Vitesco Technologies (Continental Automotive Ltd)
   </li>
    <li>
-👯 I’m looking to collaborate on traning
+👯 I’m looking to collaborate on training
    </li>
    <li>
 💬 Ask me anything about Java, JavaEE, Graph databases, SPARQL, RDF or any backend related stuff
