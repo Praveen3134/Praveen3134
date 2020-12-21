@@ -1,4 +1,4 @@
-<h1>Hey 👋, nice to see you.</h1>
+<h1>Hello 👋.</h1>
 
  
 <p>Welcome to my page! </br> I'm Praveen, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Banglore, India</b> </p>
