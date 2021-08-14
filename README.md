@@ -1,7 +1,7 @@
 <h1>Hello 👋.</h1>
 
  
-<p>Welcome to my page! </br> I'm Praveen, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Banglore, India</b> </p>
+<p>Welcome to my page! </br> I'm Praveen, Fullstack developer from <b>Banglore, India</b> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-45b8d8?style=flat-square&logo=java&logoColor=white" />
